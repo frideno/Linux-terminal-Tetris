@@ -1,0 +1,3 @@
+/home/omri/Documents/biuCS/sem2/operating-Systems/ex5code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/omri/Documents/biuCS/sem2/operating-Systems/ex5code/cmake-build-debug/CMakeFiles/ex5code.dir
+/home/omri/Documents/biuCS/sem2/operating-Systems/ex5code/cmake-build-debug/CMakeFiles/edit_cache.dir

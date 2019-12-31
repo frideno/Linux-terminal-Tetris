@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/omri/Documents/biuCS/sem2/operating-Systems/ex5code/ex51.c
+unistd.h
+-
+termios.h
+-
+stdio.h
+-
+stdlib.h
+-
+signal.h
+-
+string.h
+-
+sys/types.h
+-
+time.h
+-
+wait.h
+-
+
