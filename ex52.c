@@ -1,4 +1,4 @@
-// Omri Fridental 323869545
+// Omri Fridental
 
 #include <stdio.h>
 #include <stdlib.h>
